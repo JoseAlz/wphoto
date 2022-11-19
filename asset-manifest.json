@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/wphoto/static/css/main.75d96a79.css",
+    "main.js": "/wphoto/static/js/main.cc169186.js",
+    "static/js/787.6599582e.chunk.js": "/wphoto/static/js/787.6599582e.chunk.js",
+    "static/media/leaderboard.png": "/wphoto/static/media/leaderboard.4d34bfc8712a25d385c4.png",
+    "static/media/CyberpunkCity.jpg": "/wphoto/static/media/CyberpunkCity.314cec99f414807b7e27.jpg",
+    "static/media/Crosshatcher.otf": "/wphoto/static/media/Crosshatcher.8512302ce35bc1b312da.otf",
+    "static/media/hellboy.png": "/wphoto/static/media/hellboy.63d525658e2dfe5c653d.png",
+    "static/media/dio.png": "/wphoto/static/media/dio.b4147514dc8e6d9e5c00.png",
+    "static/media/leeloo.png": "/wphoto/static/media/leeloo.4890ff532e3c872f9a33.png",
+    "static/media/spiderman.png": "/wphoto/static/media/spiderman.c727093b3b52bed6a681.png",
+    "static/media/gwyndolin.png": "/wphoto/static/media/gwyndolin.8787252db5d09d2d166b.png",
+    "static/media/diana.png": "/wphoto/static/media/diana.0b46c47b44e4a0d37f2c.png",
+    "static/media/ryuk.png": "/wphoto/static/media/ryuk.9c9fcd2fee0c040d33ef.png",
+    "static/media/cc.png": "/wphoto/static/media/cc.6aa1f09a0e2e4f9053af.png",
+    "static/media/home.png": "/wphoto/static/media/home.d6457c022173af3a2797.png",
+    "static/media/predator.png": "/wphoto/static/media/predator.d843c2bbf6e1621d0b77.png",
+    "index.html": "/wphoto/index.html",
+    "main.75d96a79.css.map": "/wphoto/static/css/main.75d96a79.css.map",
+    "main.cc169186.js.map": "/wphoto/static/js/main.cc169186.js.map",
+    "787.6599582e.chunk.js.map": "/wphoto/static/js/787.6599582e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75d96a79.css",
+    "static/js/main.cc169186.js"
+  ]
+}
